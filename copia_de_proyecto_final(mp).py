@@ -27,7 +27,6 @@ Original file is located at
 ## Librerias
 """
 
-pip install streamlit
 
 import pandas as pd
 import numpy as np
