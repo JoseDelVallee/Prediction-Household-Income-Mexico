@@ -1,17 +1,33 @@
-# 📊 Predicción del ingreso por sueldo en hogares de México - ENIGH
+# 📊 Salary Income Prediction in Mexican Households - ENIGH
 
-Este proyecto tiene como objetivo predecir el ingreso por sueldo en los hogares mexicanos utilizando datos de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH). Se emplea un enfoque de regresión estadística para estimar el ingreso en función de variables sociodemográficas y laborales. El análisis busca generar información útil para el diseño de políticas públicas y estudios socioeconómicos.
+This project aims to predict salary-based income in Mexican households using data from the National Survey of Household Income and Expenditure (ENIGH). A statistical regression approach is employed to estimate income based on sociodemographic and labor-related variables. The analysis seeks to generate useful insights for public policy design and socioeconomic research.
 
 ---
 
-## 📌 Resumen del Proyecto
+## 📌 Project Summary
 
-- **Fuente de datos:** ENIGH (INEGI)
-- **Tipo de problema:** Regresión
-- **Algoritmos usados:** Regresión Lineal,Polinomial, otros modelos opcionales
-- **Variables clave:** Educación, ocupación, edad, zona, sexo, número de ocupados, etc.
-- **Objetivo:** Estimar el ingreso por sueldo de los hogares mexicanos
-- **Aplicación:** Análisis económico, diseño de políticas, reducción de desigualdad (ODS 1, 8 y 10)
+- **Data source:** ENIGH (INEGI, Mexico)  
+- **Problem type:** Regression  
+- **Algorithms used:** Linear Regression, Polynomial Regression, and other optional models  
+- **Key variables:** Education, occupation, age, region, gender, number of employed household members, etc.  
+- **Objective:** Estimate household salary income in Mexico  
+- **Application:** Economic analysis, public policy design, inequality reduction (aligned with SDGs 1, 8, and 10)
+
+---
+
+## 🌍 Sustainable Development Goal (SDG) Alignment
+
+In addition to income prediction, the project aims to provide actionable insights and data-driven proposals that contribute to **UN Sustainable Development Goal No. 8: Decent Work and Economic Growth**, helping address labor market inequalities and promote inclusive economic development in Mexico.
+
+---
+
+## 🧠 Technologies & Tools
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook / Google Colab
+- Data visualization libraries
+- ENIGH microdata
+x
 
 ---
 ![](img/Interface.png)
