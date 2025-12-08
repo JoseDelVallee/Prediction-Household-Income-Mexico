@@ -20,7 +20,7 @@ Original file is located at
 
 
 *   Arias Morales Yahir
-*   Ayala García Oscar Galo
+*   https://github.com/Isomorfismo
 *   Piña del Valle José
 *   Rivera García Axel Maximiliano
 
